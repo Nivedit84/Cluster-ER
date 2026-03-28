@@ -1,4 +1,4 @@
-# 🧑‍⚕️ Cluster Doctor
+# 🧑‍⚕️ Cluster ER
 
 > A Python-based DevOps tool to diagnose Kubernetes clusters and capture incident data in seconds.
 
@@ -6,7 +6,7 @@
 
 ## 🚀 Overview
 
-Cluster Doctor is a production-style DevOps CLI tool designed to help engineers quickly identify issues in Kubernetes clusters and collect critical debugging information during incidents.
+Cluster ER is a production-style DevOps CLI tool designed to help engineers quickly identify issues in Kubernetes clusters and collect critical debugging information during incidents.
 
 Instead of manually running multiple `kubectl` commands, this tool automates health checks and incident data collection into a single workflow.
 
