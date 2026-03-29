@@ -37,24 +37,7 @@ Instead of manually running multiple `kubectl` commands, this tool automates hea
 
 - Python  
 - Kubernetes (kubectl)  
-- Minikube (for local testing)  
-
----
-
-## 📂 Project Structure
-cluster-doctor/
-│
-├── main.py
-├── checks/
-│ ├── nodes.py
-│ ├── pods.py
-│ └── incidents.py
-│
-├── utils/
-│ └── kubectl.py
-│
-└── README.md
-
+- Minikube (for local testing)
 
 ---
 
